@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/jihocha/leetcode/tree/master/0595-big-countries) |
 | [3220-odd-and-even-transactions](https://github.com/jihocha/leetcode/tree/master/3220-odd-and-even-transactions) |
 <!---LeetCode Topics End-->
