@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/jihocha/leetcode/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/jihocha/leetcode/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/jihocha/leetcode/tree/master/0608-tree-node) |
+| [0619-biggest-single-number](https://github.com/jihocha/leetcode/tree/master/0619-biggest-single-number) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/jihocha/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1075-project-employees-i](https://github.com/jihocha/leetcode/tree/master/1075-project-employees-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/jihocha/leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
